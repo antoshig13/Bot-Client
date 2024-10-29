@@ -15,3 +15,8 @@
 
    ```bash
    pip install -r requirements.txt
+
+### Step 3: Run the Client
+
+   ```bash
+   python Client.py
