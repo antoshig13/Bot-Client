@@ -14,9 +14,11 @@
 3. Use the following command to install all necessary packages listed in `requirements.txt`:
 
    ```bash
+   cd Desktop
    pip install -r requirements.txt
+   pip install customtkinter
 
 ### Step 3: Run the Client
 
    ```bash
-   python Client.py
+   python ClientBot.py
