@@ -2,23 +2,12 @@
 
 ## Prerequisites
 
-### Step 1: Install Python
+### Step 1: Install 
 
-1. Download Python from the [official Python website](https://www.python.org/downloads/).
-2. **Important**: When running the Python installer, make sure to check the box that says "Add Python to PATH" before continuing with the installation. This allows you to use Python commands from the command line.
+1. Download ClientBot.exe along with the license and public_key.
+2. Download ServeBot.exe along with the same license and pbulic_key on a seperate computer
 
-### Step 2: Install Project Dependencies
+### Step 2: Connect
 
-1. Clone this repository to your local machine, or download and extract the project files.
-2. Open a command prompt (or terminal) and navigate to the directory where the project files are located.
-3. Use the following command to install all necessary packages listed in `requirements.txt`:
+1. Type in your public ip of the serverBot pc to the clientbot program to communicate together over the internet.
 
-   ```bash
-   cd Desktop
-   pip install -r requirements.txt
-   pip install customtkinter
-
-### Step 3: Run the Client
-
-   ```bash
-   python ClientBot.py
