@@ -4,8 +4,8 @@
 
 ### Step 1: Install 
 
-1. Download ClientBot.exe along with the license and public_key.
-2. Download ServeBot.exe along with the same license and pbulic_key on a seperate computer
+1. Download ClientBot.exe on the computer you want the script running
+2. Download ServeBot.exe on a seperate computer
 
 ### Step 2: Connect
 
