@@ -10,4 +10,5 @@
 ### Step 2: Connect
 
 1. Type in your public ip of the serverBot pc to the clientbot program to communicate together over the internet.
+2. The IP is on the Server app when you run it 
 
